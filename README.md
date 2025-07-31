@@ -19,8 +19,6 @@ Below is a sample preview of the main webpage:
 
 ![Webpage Preview](preview.png)
 
-If you don't see a screenshot above, please add a file named preview.png showing your app's main interface!
-
 Usage
 Upload your Word file using the upload button.
 Click "Convert" to generate the HTML code.
